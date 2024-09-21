@@ -1,0 +1,93 @@
+
+@import url(default.css);
+.header{
+    position: relative;
+    height:138px;
+    z-index:100;
+}
+span{
+    color: #1E90FF;
+}
+  
+  /* 헤더 */
+  header {
+    background-color: #1E90FF; /* 푸른색 헤더 */
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+   width: 150px;
+   margin-left: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  nav ul li a:hover {
+    color: #FFAE21;
+  }
+
+/* 캐릭터 상세 정보 섹션 */
+.character-detail {
+    padding: 60px 20px;
+    text-align: center;
+    background-color: #ffffff;
+  }
+  
+  .character-detail h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .character-detail img {
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .character-detail p {
+    font-size: 18px;
+    color: #666;
+    max-width: 700px;
+    margin: 0 auto 20px;
+    line-height: 1.8;
+  }
+  
+  .character-detail .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #1E90FF;
+    text-decoration: none;
+  }
+
+
+  /* 푸터 */
+  footer {
+    background-color: #1E90FF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .social-links {
+    margin: 10px;
+  }
