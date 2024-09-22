@@ -134,6 +134,7 @@ span.bold{
     background-image: url(../image/back2.png);
     background-repeat : no-repeat;
     background-size : cover;
+    background-attachment: fixed;
     padding: 60px 20px;
     text-align: center;
     background-color: #f5fafd;
@@ -260,6 +261,7 @@ span.bold{
     background-image: url(../image/back.png);
     background-repeat : no-repeat;
     background-size : cover;
+    background-attachment: fixed;
     padding: 60px 20px;
     background-color: #f5fafd;
     text-align: center;
