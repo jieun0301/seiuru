@@ -4,15 +4,6 @@
     height:138px;
     z-index:100;
 }
-span.blue{
-    color: #1E90FF;
-}
-span.yellow{
-    color: #FFAE21;
-}
-span.bold{
-    font-weight: 700;
-}
   
   /* 헤더 */
   header {
@@ -156,6 +147,17 @@ span.bold{
     max-width: 800px;
     margin: 0 auto;
   }
+
+  .section p.story-p {
+    padding: 20px 0 0 0;
+  }
+
+  .section p.story-p-last {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1E90FF;
+    padding: 20px 0;
+  }
   
   /* 캐릭터 섹션 */
   .section.characters {
@@ -207,10 +209,14 @@ span.bold{
   }
   
 /* 이미지 슬라이드 */
+#image-slider{
+  background-color: #fdfdfd;
+}
+
 .image-slider {
     width: 100%;
     overflow: hidden;
-    margin: 50px 0;
+    padding: 50px 0;
   }
   
   .slider {

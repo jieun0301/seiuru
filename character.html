@@ -24,92 +24,26 @@
     </nav>
   </header>
 
- <!-- 캐릭터 소개 섹션 -->
- <section id="characters" class="character-section">
-  <h2><span>C</span>haracters</h2>
-  <div class="character-grid">
-    <!-- 이치노세 요헤이 -->
-    <div class="character-item yohei_head">
-      <a href="yohei.html">
-        <img src="image/yohei_head.png" alt="이치노세 요헤이">
-        <div class="overlay">
-          <div class="role">회장</div>
-          <div class="name">이치노세<br>요헤이</div>
-        </div>
-      </a>
-    </div>
-    <!-- 요시노 린 -->
-    <div class="character-item yoshino_head">
-      <a href="yoshino.html">
-        <img src="image/yoshino_head.png" alt="요시노 린">
-        <div class="overlay">
-          <div class="role">부회장</div>
-          <div class="name">요시노<br>린</div>
-        </div>
-      </a>
-    </div>
-    <!-- 사카가미 치하루 -->
-    <div class="character-item chiharu_head">
-      <a href="chiharu.html">
-        <img src="image/chiharu_head.png" alt="사카가미 치하루">
-        <div class="overlay">
-          <div class="role">서기</div>
-          <div class="name">사카가미<br>치하루</div>
-        </div>
-      </a>
-    </div>
-    <!-- 시게토 미사오 -->
-    <div class="character-item shigeto_head">
-      <a href="shigeto.html">
-        <img src="image/shigeto_head.png" alt="시게토 미사오">
-        <div class="overlay">
-          <div class="role">회계</div>
-          <div class="name">시게토<br>미사오</div>
-        </div>
-      </a>
-    </div>
-    <!-- 캐릭터 5 -->
-    <div class="character-item">
-      <a href="character5.html">
-        <img src="https://via.placeholder.com/200x300?text=Character+5" alt="캐릭터 5">
-        <div class="overlay">
-          <div class="role"></div>
-          <div class="name">혼다<br>모에</div>
-        </div>
-      </a>
-    </div>
-    <!-- 캐릭터 6 -->
-    <div class="character-item">
-      <a href="character6.html">
-        <img src="https://via.placeholder.com/200x300?text=Character+6" alt="캐릭터 6">
-        <div class="overlay">
-          <div class="role"></div>
-          <div class="name">타카나시<br>료마</div>
-        </div>
-      </a>
-    </div>
-    <!-- 캐릭터 7 -->
-    <div class="character-item">
-      <a href="character7.html">
-        <img src="https://via.placeholder.com/200x300?text=Character+7" alt="캐릭터 7">
-        <div class="overlay">
-          <div class="role"></div>
-          <div class="name">사사모리<br>코노미</div>
-        </div>
-      </a>
-    </div>
-    <!-- 캐릭터 8 -->
-    <div class="character-item">
-      <a href="character8.html">
-        <img src="https://via.placeholder.com/200x300?text=Character+8" alt="캐릭터 8">
-        <div class="overlay">
-          <div class="role"></div>
-          <div class="name">엔도<br>미츠키</div>
-        </div>
-      </a>
-    </div>
-  </div>
-</section>
+  <h2><span class="blue">C</span>ha<span class="yellow">ra</span>c<span class="blue">t</span>e<span class="yellow">r</span>s</h2>
+
+ <!-- 캐릭터 얼굴 이미지 일렬 배치 -->
+ <div class="character-row">
+  <img src="https://via.placeholder.com/100" alt="이치노세 요헤이" class="character-face" onclick="showCharacter('yohei')">
+  <img src="https://via.placeholder.com/100" alt="요시노 린" class="character-face" onclick="showCharacter('yoshino')">
+  <img src="https://via.placeholder.com/100" alt="사카가미 치하루" class="character-face" onclick="showCharacter('chiharu')">
+  <img src="https://via.placeholder.com/100" alt="시게토 미사오" class="character-face" onclick="showCharacter('shigeto')">
+  <img src="https://via.placeholder.com/100" alt="혼다 모에" class="character-face" onclick="showCharacter('moe')">
+  <img src="https://via.placeholder.com/100" alt="타카나시 료마" class="character-face" onclick="showCharacter('takanashi')">
+  <img src="https://via.placeholder.com/100" alt="사사모리 코노미" class="character-face" onclick="showCharacter('konomi')">
+  <img src="https://via.placeholder.com/100" alt="엔도 미츠키" class="character-face" onclick="showCharacter('endo')">
+</div>
+
+<!-- 캐릭터 소개 섹션 -->
+<div id="character-info">
+  <img class="logo_color" src="image/logo_color.png">
+</div>
+
+<script src="js/script.js"></script>
 
     <!-- Footer -->
     <footer>

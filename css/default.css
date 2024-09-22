@@ -16,7 +16,7 @@ ul,li{
 }
 html,body{
     min-width:1280px;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
     color:#3d3d3d;
     font-family:'GmarketSansMedium',sans-serif;
     font-size:15px;
@@ -46,4 +46,13 @@ body {
   body.loaded {
     opacity: 1;
   }
+span.blue{
+    color: #1E90FF;
+}
+span.yellow{
+    color: #FFAE21;
+}
+span.bold{
+    font-weight: 700;
+}
   
