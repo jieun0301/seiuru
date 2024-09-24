@@ -208,6 +208,10 @@
     text-decoration: none;
     margin-top: 10px;
   }
+
+  .characters .btn:hover {
+    color: #FFAE21;
+  }
   
 /* 이미지 슬라이드 */
 #image-slider{
@@ -221,7 +225,7 @@
   }
   
   .slider {
-    width: calc(300px * 8); /* 16개의 이미지가 한 트랙에서 반복됨 */
+    width: calc(300px * 8);
     display: flex;
     justify-content: space-between;
   }
@@ -258,7 +262,7 @@
       transform: translateX(0);
     }
     100% {
-      transform: translateX(calc(-320px * 8)); /* 8개의 이미지가 지나갈 때까지 스크롤 */
+      transform: translateX(calc(-320px * 8)); /*스크롤 */
     }
   }
   
