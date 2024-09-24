@@ -42,15 +42,16 @@
   
   /* 메인 비주얼 */
   .main-visual {
-        background-image: url('../image/titleback.png'); /* 메인 비주얼 이미지 */
-        background-size: cover;
-        background-position: center;
-        height: 80vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
+    background-color: #f5fafd;
+    background-image: url('../image/titleback.png'); /* 메인 비주얼 이미지 */
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
 
     img.main-banner{
         position: absolute;

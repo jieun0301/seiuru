@@ -149,3 +149,21 @@ document.addEventListener("DOMContentLoaded", function() {
    </div>
  `;
 }
+
+
+// 모달 열기 함수
+function openModal(img) {
+  var modal = document.getElementById("imageModal");
+  var modalImg = document.getElementById("modalImage");
+  var captionText = document.getElementById("caption");
+
+  modal.style.display = "block";
+  modalImg.src = img.src; // 클릭한 이미지의 소스를 모달 이미지로 설정
+  captionText.innerHTML = img.alt; // 이미지의 alt 값을 설명으로 설정
+}
+
+// 모달 닫기 함수
+function closeModal() {
+  var modal = document.getElementById("imageModal");
+  modal.style.display = "none";
+}
