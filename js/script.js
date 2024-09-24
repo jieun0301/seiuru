@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
   let characterInfo = {
     yohei: {
       name: "<span style='color:#F7CF00'>이치노세<br>요헤이</span>",
-      voice:"학생회의 저력을 보여주마!",
+      voice:"&quot;학생회의 저력을 보여주마!&quot;",
       teg1:"#성적우수",
       teg2:"#품행단정",
       teg3:"#도련님",
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     yoshino: {
       name: "<span style='color:#FFAB5D'>요시노<br>린</span>",
-      voice:"미안,미안~ 까먹었다!",
+      voice:"&quot;미안,미안~ 까먹었다!&quot;",
       teg1:"#외향형",
       teg2:"#요령이 좋은",
       teg3:"#센스있는",
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     chiharu: {
       name: "<span style='color:#C4C2D3'>사카가미<br>치하루</span>",
-      voice:"운명을 시험해보실래요?",
+      voice:"&quot;운명을 시험해보실래요?&quot;",
       teg1:"#온화한",
       teg2:"#괴짜",
       teg3:"#운명론자",
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     shigeto: {
       name: "<span style='color:#3E4961'>시게토<br>미사오</span>",
-      voice:"너 따위가 알아서 뭐하게… 내 이름이 '시게토'란 걸….",
+      voice:"&quot;너 따위가 알아서 뭐하게… 내 이름이 '시게토'란 걸….&quot;",
       teg1:"#내성적",
       teg2:"#사교성 부족",
       teg3:"#시건방진",
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     moe: {
       name: "<span style='color:#FFE182'>혼다<br>모에</span>",
-      voice:"영광으로 아시라구요-!",
+      voice:"&quot;영광으로 아시라구요-!&quot;",
       teg1:"#제멋대로인 바보",
       teg2:"#부끄러움 많고 어설픈",
       teg3:"#사랑에 빠져있음!",
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     takanashi: {
       name: "<span style='color:#D6C0AF'>타카나시<br>료마</span>",
-      voice:"여기보고 웃어봐~.",
+      voice:"&quot;여기보고 웃어봐~.&quot;",
       teg1:"#능글맞은",
       teg2:"#명랑한",
       teg3:"#성실한",
@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     konomi: {
       name: "<span style='color:#F99AC1'>사사모리<br>코노미</span>",
-      voice:"ㅈ,죄,죄송해요!",
+      voice:"&quot;ㅈ,죄,죄송해요!&quot;",
       teg1:"#소심한",
       teg2:"#수줍음 많은",
       teg3:"#순진한",
@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function() {
     },
     endo: {
       name: "<span style='color:#B5A6B8'>엔도<br>미츠키</span>",
-      voice:"멍청하긴….",
+      voice:"&quot;멍청하긴….&quot;",
       teg1:"#용의주도한",
       teg2:"#자존심 강한",
       teg3:"#냉혈한",

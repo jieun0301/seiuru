@@ -67,8 +67,12 @@ span{
   
   /* 캐릭터 정보 섹션 */
 #character-info {
-  background-color: #f5fafd;
+  background-image: url(../image/back2.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   display: flex;
+  background-color: #f5fafd;
   justify-content: center;
   align-items: flex-end;
   padding: 50px 70px 0 70px;
