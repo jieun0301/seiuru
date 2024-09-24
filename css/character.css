@@ -7,29 +7,26 @@
 span{
     color: #1E90FF;
 }
-   /* 헤더 */
-   header {
-    position: fixed;
-    width: 100%;
+  
+  /* 헤더 */
+  header {
     background-color: #1E90FF; /* 푸른색 헤더 */
     color: white;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 1000;
   }
   
   .logo img {
    width: 150px;
    margin-left: 20px;
   }
- 
+  
   nav ul {
     list-style: none;
     display: flex;
     align-items: center;
-    margin-right: 50px;
   }
   
   nav ul li {
