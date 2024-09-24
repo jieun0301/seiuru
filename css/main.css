@@ -42,6 +42,10 @@
   
   /* 메인 비주얼 */
   .main-visual {
+    background-image: url(../image/back2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #f5fafd;
     height: 1200px;
     display: flex;
