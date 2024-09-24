@@ -7,12 +7,15 @@
   
   /* 헤더 */
   header {
+    position: fixed;
+    width: 100%;
     background-color: #1E90FF; /* 푸른색 헤더 */
     color: white;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 1000;
   }
   
   .logo img {
@@ -24,6 +27,7 @@
     list-style: none;
     display: flex;
     align-items: center;
+    margin-right: 50px;
   }
   
   nav ul li {
@@ -52,6 +56,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding-top: 100px;
   }
 
     img.main-banner{
