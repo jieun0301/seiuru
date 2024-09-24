@@ -43,7 +43,6 @@
   /* 메인 비주얼 */
   .main-visual {
     background-color: #f5fafd;
-    height: 1300px;
     display: flex;
     justify-content: center;
     align-items: center;
