@@ -67,18 +67,19 @@ span{
   
   /* 캐릭터 정보 섹션 */
 #character-info {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 20px 70px;
-    margin: 50px 0;
-    border-radius: 10px;
-    transition: transform 0.3s ease;
+  background-color: #f5fafd;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 50px 70px 0 70px;
+  margin: 50px 0 0 0;
+  transition: transform 0.3s ease;
   }
-  
+ 
   #character-info h2 {
-    font-size: 30px;
-    text-align: left;
+    margin: 15px 0;
+    font-size: 50px;
+    text-align: center;
   }
 
   #character-info img.logo_color{
@@ -86,15 +87,41 @@ span{
     object-fit: contain;
     padding: 30px 0px 70px 0px;
   }
+
+  .character-info-left{
+    display: flex;
+    position: relative;
+    z-index: 2;
+    background-color: #fff;
+    padding: 25px 25px;
+    border-radius: 300px 300px 0 0;
+    flex-direction: column;
+    align-items: center;
+  }
   
   .character-info-left img {
-    width: 400px; /* 3:5 비율의 이미지 */
-    height: 700px;
+    width: 250px; /* 3:5 비율의 이미지 */
+    height: 250px;
     object-fit: contain;
-    margin-right: 70px;
+    border-radius: 250px;
+  }
+
+  .left-bottom p{
+    text-align: center;
+    background-color: #1E90FF;
+    padding: 13px 20px 10px 20px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease;
+  }
+
+  .left-bottom p:hover{
+    transform: translateY(-5px);
   }
   
   .character-info-right {
+    position: relative;
+    left: -5px;
     transition: transform 0.3s ease;
   }
   
@@ -110,9 +137,70 @@ span{
   }
   
   .character-info-right img {
-    width: 700px; /* 5:3 비율의 이미지 */
-    height: 300px;
+    position: absolute;
+    top: 0;
+    right: 20px;
+    width: 200px;
     object-fit: contain;
+    transform-origin: 50% 100%;
+    transition: rotate 0.3s ease;
+  }
+  .character-info-right img:hover{
+    rotate: 5deg;
+  }
+
+  .character-info-right .right-top {
+    margin: 70px 0 20px 35px;
+  }
+
+  .character-info-right .right-top h3{
+    font-size: 20px;
+    display: inline-block;
+    background-color: #1E90FF;
+    padding: 10px 25px;
+    border-radius: 50px;
+  }
+
+  .character-info-right .right-top h3.yohei-voice ,.left-bottom .yohei-voice{
+    background-color: #F7CF00;
+  }
+
+  .character-info-right .right-top h3.yoshino-voice ,.left-bottom .yoshino-voice{
+    background-color: #FFAB5D;
+  }
+
+  .character-info-right .right-top h3.chiharu-voice ,.left-bottom .chiharu-voice{
+    background-color: #C4C2D3;
+  }
+
+  .character-info-right .right-top h3.shigeto-voice ,.left-bottom .shigeto-voice{
+    background-color: #3E4961;
+    color: #f7f7f7;
+  }
+
+  .character-info-right .right-top h3.moe-voice ,.left-bottom .moe-voice{
+    background-color: #FFE182;
+  }
+
+  .character-info-right .right-top h3.takanashi-voice ,.left-bottom .takanashi-voice{
+    background-color: #D6C0AF;
+  }
+
+  .character-info-right .right-top h3.konomi-voice ,.left-bottom .konomi-voice{
+    background-color: #F99AC1;
+  }
+
+  .character-info-right .right-top h3.endo-voice ,.left-bottom .endo-voice{
+    background-color: #B5A6B8;
+  }
+  
+  .character-info-right .right-bottom {
+    width: 700px;
+    height: 420px;
+    border-radius: 0 80px 0 0;
+    background-color: #fff;
+    padding: 20px 20px 0 45px;
+    box-shadow: inset 12px 0px 10px -5px rgba(0, 0, 0, 0.1);
   }
 
 
@@ -127,4 +215,3 @@ span{
   .social-links {
     margin: 10px;
   }
-  
