@@ -43,6 +43,7 @@
   /* 메인 비주얼 */
   .main-visual {
     background-color: #f5fafd;
+    height: 1200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,8 +52,8 @@
 
     img.main-banner{
         position: absolute;
-        top: 1100px;
-        left: 70px;
+        top: 1000px;
+        left: 75px;
         width: 280px;
         transition: all 0.3s ease;
     }
