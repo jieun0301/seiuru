@@ -152,8 +152,8 @@ document.addEventListener("DOMContentLoaded", function() {
         <span style='display: block; margin: 0 0 30px 0; height: 160px;'>
  	      1학년 8반. 사진부.<br>
         여자아이들의 마음을 잘 아는 가벼운 소년.<br>
-        뒤처지는 학업 태도로 선생님들에게 눈총을 사지만<br>
-        나름의 집안 사정이 있는 듯 하다.
+        뒤처지는 성적 탓에 선생님들에게 눈총을 사지만<br>
+        나름의 피치 못할 사정이 있는 듯 하다.
         </span>
         <span style='display: block; text-align:right; color:#D6C0AF; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
