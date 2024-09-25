@@ -206,6 +206,10 @@
   .character-info-right .right-bottom {
     width: 700px;
     height: 470px;
+    background-image: url(../image/back3.png);
+    background-position: -30px 230px;
+    background-repeat: no-repeat;
+    background-size: 600px;
     border-radius: 0 80px 0 0;
     background-color: #fff;
     padding: 32px 20px 0 45px;

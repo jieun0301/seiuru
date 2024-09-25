@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#온화한",
       teg2:"#괴짜",
       teg3:"#운명론자",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
+      imageLeft: "image/chiharu_head.png", //전신
       imageRight: "image/chiharu.png",  //sd
       description: `
         <span style='display: block; color:#C4C2D3; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
