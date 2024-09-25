@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
         자신에게 엄격한 태도를 갖고 있으나<br>
         가끔씩 문제를 힘으로 해결하려는 모습을 보이기도 한다.
         </span>
-        <span style='display: block; text-align:right; color:#F7CF00; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#F7CF00; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 179cm<br>
         혈액형 : O형<br>
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
         장난꾸러기 기질이 있지만<br>
         믿고 의지 할 수 있는 연상이기도 하다.
         </span>
-        <span style='display: block; text-align:right; color:#FFAB5D; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#FFAB5D; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 168cm<br>
         혈액형 : B형<br>
@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", function() {
         과학이 특기인 수석 입학자로서 모범생의 태도를 보이지만<br>
         점술과 운세를 보는 비과학적 취미를 갖고 있다.
         </span>
-        <span style='display: block; text-align:right; color:#C4C2D3; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#C4C2D3; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 155cm<br>
         혈액형 : AB형<br>
@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function() {
         실상은 그저 내성적인 애니메이션 덕후.<br>
         학생회 임원들에게만 마음을 열고 있다.
         </span>
-        <span style='display: block; text-align:right; color:#3E4961; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#3E4961; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 168cm<br>
         혈액형 : A형<br>
@@ -128,7 +128,7 @@ document.addEventListener("DOMContentLoaded", function() {
         자기중심적인 태도로 성가시지만<br>
         서방님을 찾으러 온 로맨티스트라는 소문이…?
         </span>
-        <span style='display: block; text-align:right; color:#FFE182; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#FFE182; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 163cm<br>
         혈액형 : B형<br>
@@ -155,7 +155,7 @@ document.addEventListener("DOMContentLoaded", function() {
         뒤쳐지는 학업 태도로 선생님들에게 눈총을 사지만<br>
         나름의 집안 사정이 있는 듯 하다.
         </span>
-        <span style='display: block; text-align:right; color:#D6C0AF; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#D6C0AF; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 174cm<br>
         혈액형 : O형<br>
@@ -182,7 +182,7 @@ document.addEventListener("DOMContentLoaded", function() {
         조용한 성격과 달리 엉뚱한 로맨스를 상상하곤 한다.<br>
         인터넷에서 유명한 로맨스 소설 작가.
         </span>
-        <span style='display: block; text-align:right; color:#F99AC1; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#F99AC1; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 157cm<br>
         혈액형 : AB형<br>
@@ -208,7 +208,7 @@ document.addEventListener("DOMContentLoaded", function() {
         남들 앞에서는 상냥한 태도를 보이지만<br>
         실제로는 오만한 성격으로, 사카가미를 낮잡아보고 있다.<br>
         </span>
-        <span style='display: block; text-align:right; color:#B5A6B8; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Other</span>
+        <span style='display: block; text-align:right; color:#B5A6B8; font-size: 30pt; font-weight: 700; margin: 0 21px 10px 0;'>Others</span>
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 176cm<br>
         혈액형 : B형<br>
