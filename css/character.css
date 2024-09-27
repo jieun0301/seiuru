@@ -62,9 +62,36 @@
     transition: transform 0.3s ease;
   }
 
-  .character-face:hover{
-    border: 3px solid #1E90FF;
-    margin: -3px;
+  .character-face:nth-child(1):hover{
+    background-color: #F7CF00;
+  }
+
+  .character-face:nth-child(2):hover{
+    background-color: #FFAB5D;
+  }
+
+  .character-face:nth-child(3):hover{
+    background-color: #C4C2D3;
+  }
+
+  .character-face:nth-child(4):hover{
+    background-color: #3E4961;
+  }
+
+  .character-face:nth-child(5):hover{
+    background-color: #FFE182;
+  }
+
+  .character-face:nth-child(6):hover{
+    background-color: #D6C0AF;
+  }
+
+  .character-face:nth-child(7):hover{
+    background-color: #F99AC1;
+  }
+
+  .character-face:nth-child(8):hover{
+    background-color: #B5A6B8;
   }
   
   /* 캐릭터 정보 섹션 */

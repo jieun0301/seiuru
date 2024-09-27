@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#성적우수",
       teg2:"#품행단정",
       teg3:"#도련님",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
+      imageLeft: "image/yohei_head.png", //전신
       imageRight: "image/yohei.png",  //sd
       description: `
         <span style='display: block; color:#F7CF00; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#온화한",
       teg2:"#괴짜",
       teg3:"#운명론자",
-      imageLeft: "image/chiharu_head.png", //전신
+      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
       imageRight: "image/chiharu.png",  //sd
       description: `
         <span style='display: block; color:#C4C2D3; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
@@ -91,7 +91,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#내성적",
       teg2:"#사교성 부족",
       teg3:"#시건방진",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
+      imageLeft: "image/shigeto_head.png", //전신
       imageRight: "image/shigeto.png",  //sd
       description: `
         <span style='display: block; color:#3E4961; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
