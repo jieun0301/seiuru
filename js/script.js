@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#온화한",
       teg2:"#괴짜",
       teg3:"#운명론자",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
+      imageLeft: "image/chiharu_head.png", //전신
       imageRight: "image/chiharu.png",  //sd
       description: `
         <span style='display: block; color:#C4C2D3; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
@@ -118,7 +118,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#제멋대로인 바보",
       teg2:"#부끄러움 많고 어설픈",
       teg3:"#사랑에 빠져있음!",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
+      imageLeft: "image/moe_head.png", //전신
       imageRight: "https://via.placeholder.com/380x450?text=380x450",  //sd
       description: `
          <span style='display: block; color:#FFE182; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
@@ -199,7 +199,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#용의주도한",
       teg2:"#자존심 강한",
       teg3:"#냉혈한",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
+      imageLeft: "image/endo_head.png", //전신
       imageRight: "https://via.placeholder.com/380x450?text=380x450",  //sd
       description: `
          <span style='display: block; color:#B5A6B8; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
