@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg2:"#부끄러움 많고 어설픈",
       teg3:"#사랑에 빠져있음!",
       imageLeft: "image/moe_head.png", //전신
-      imageRight: "https://via.placeholder.com/380x450?text=380x450",  //sd
+      imageRight: "image/moe.png",  //sd
       description: `
          <span style='display: block; color:#FFE182; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
         <span style='display: block; margin: 0 0 30px 0; height: 160px;'>
@@ -145,8 +145,8 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#능글맞은",
       teg2:"#명랑한",
       teg3:"#성실한",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
-      imageRight: "https://via.placeholder.com/380x450?text=380x450",  //sd
+      imageLeft: "image/takanashi_head.png", //전신
+      imageRight: "image/takanashi.png",  //sd
       description: `
          <span style='display: block; color:#D6C0AF; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
         <span style='display: block; margin: 0 0 30px 0; height: 160px;'>
@@ -172,8 +172,8 @@ document.addEventListener("DOMContentLoaded", function() {
       teg1:"#소심한",
       teg2:"#수줍음 많은",
       teg3:"#순진한",
-      imageLeft: "https://via.placeholder.com/250x250?text=250x250", //전신
-      imageRight: "https://via.placeholder.com/380x450?text=380x450",  //sd
+      imageLeft: "image/konomi_head.png", //전신
+      imageRight: "image/konomi.png",  //sd
       description: `
          <span style='display: block; color:#F99AC1; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
         <span style='display: block; margin: 0 0 30px 0; height: 160px;'>
@@ -200,7 +200,7 @@ document.addEventListener("DOMContentLoaded", function() {
       teg2:"#자존심 강한",
       teg3:"#냉혈한",
       imageLeft: "image/endo_head.png", //전신
-      imageRight: "https://via.placeholder.com/380x450?text=380x450",  //sd
+      imageRight: "image/endo.png",  //sd
       description: `
          <span style='display: block; color:#B5A6B8; font-size: 30pt; font-weight: 700; margin: 0 0 10px 0;'>Profile</span>
         <span style='display: block; margin: 0 0 30px 0; height: 160px;'>
@@ -212,8 +212,8 @@ document.addEventListener("DOMContentLoaded", function() {
         <span style='display: block; text-align:right;  margin: 0 21px 10px 0;'>
         키 : 176cm<br>
         혈액형 : B형<br>
-        취미 : 정원 산책<br>
-        특기 : 식물 관리, 독서
+        취미 : 정원 산책, 독서<br>
+        특기 : 식물 관리
         </span>
       `
       ,
